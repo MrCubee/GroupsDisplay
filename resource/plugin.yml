@@ -1,0 +1,5 @@
+name: GroupsDisplay
+version: 1.0
+author: MrCubee
+main: fr.mrcubee.groups.display.GroupsDisplay
+depend: [Groups]
